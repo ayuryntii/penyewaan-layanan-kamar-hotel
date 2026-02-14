@@ -50,7 +50,7 @@ To run this project locally, follow these steps:
 ### Installation & Setup
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/ayuryntii/penyewaan-layanan-kamar-hotel.git
     ```
 2.  **Move to Web Directory**:
     Move the `hotel` folder to your `C:\xampp\htdocs\` directory.
