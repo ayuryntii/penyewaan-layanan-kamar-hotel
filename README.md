@@ -1,4 +1,4 @@
-# 🏨 Hotel Room Service & Reservation System - Group 3
+# 🏨 Hotel Room Service & Reservation System - Kelompok 3 TI23B Universitas Muhammadiyah Cirebon
 
 Welcome to the **Hotel Room Service & Reservation System**, a comprehensive web application designed to streamline hotel operations and enhance guest experience. This project was developed as a group assignment for the **Web Programming** course.
 
